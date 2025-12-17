@@ -5,7 +5,7 @@ This repository contains all code and data necessary to reproduce the figures an
 Examples:
 - `Figure_8_1.m` → produces Figure 8.1 in the notes
 
-(Exact filenames reflect the labels used in the lecture notes. Browse the repository to find the script corresponding to a figure of interest.)
+(Exact filenames reflect the labels used in the lecture notes.)
 
 ## Requirements
 - MATLAB R2021a or newer
